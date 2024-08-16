@@ -1,0 +1,4 @@
+Linguagem de alto nivel criada nos anos de 1970;
+criada por Dennis Ritchie;
+A linguagem C buscou manter o "contato com o computador real" e ainda sim dar ao programador novas
+ condições para o desenvolvimento de programas em áreas diversas, como comercial, científica e de engenharia.

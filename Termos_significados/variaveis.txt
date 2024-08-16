@@ -1,0 +1,17 @@
+São locais onde ficam guardadas informações para usar durante o código;
+como uma caixa com uma etiqueta escrita um nome aleatório e uma informação guardada dentro.
+
+ex: nomeAleatorio = 8;
+
+"nomeAleatorio" é o nome da variavel e "8" é o valor dentro dela;
+
+Existem varios tipos de informações e elas são mostradas antes do nome da variavel.
+
+Tipos:
+int = um número inteiro => 8, 7, 10;
+float = um número quebrado ou ponto flutuante => 2.5 , 10.1 , 2.3;
+char = um caractere =>  a, c, x;
+bool = verdadeiro ou falso => true, fase;
+
+
+Operadores aritméticos:
