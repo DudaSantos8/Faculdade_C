@@ -1,0 +1,16 @@
+if => se
+uma parte do código que só é feita se a condição for atendida
+
+else => senão
+só é feito quando o "if" não for atendido
+
+else if => igual ao if porém vem antes do else como uma segunda condição
+
+
+if (condição) {
+    código a ser executado se a condição for verdadeira
+}else if (condição){
+    código a ser executado se a condição de cima não for verdadeira e essa for
+}else {
+    código a ser executado se a condição for falsa
+}
