@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Zupper/Repositorios_git/Faculdade_C",
-      "program": "c:/Users/Zupper/Repositorios_git/Faculdade_C/build/Debug/outDebug",
+      "cwd": "c:/Users/Zupper/Repositorios_git/Faculdade_C/atividades_SalaDeAula",
+      "program": "c:/Users/Zupper/Repositorios_git/Faculdade_C/atividades_SalaDeAula/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
